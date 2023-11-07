@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: flex;
+}
+
+.edit-button {
+    display: none;
+}
